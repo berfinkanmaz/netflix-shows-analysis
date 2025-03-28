@@ -1,0 +1,13 @@
+# Temel Kütüphaneler
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+jupyter>=1.0.0
+
+# Veri Analizi için Ek Araçlar (Opsiyonel)
+plotly>=5.0.0         # İnteraktif grafikler için
+notebook>=6.0.0       # Jupyter Notebook desteği
+
+# Jupyter Notebook Eklentileri (Opsiyonel)
+jupyter-contrib-nbextensions>=0.5.0
